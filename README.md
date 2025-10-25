@@ -8,7 +8,7 @@ The goal of the project is to create an enjoyable, visually appealing, and acces
 ---
 
 ## ✨ Features
-- 🕹 *Fully 3D racing gameplay* using the Unity engine  
+- 🕹 *Fully 3D racing gameplay* using the Unity engine.
 - 👥 *Multiple playable characters and karts*  
 - 🛣 *Interactive race tracks* with obstacles, coins, and shortcuts. 
 - ⚙ *Physics-based controls and collisions*  
