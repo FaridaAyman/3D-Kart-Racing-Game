@@ -16,7 +16,9 @@ The goal of the project is to create an enjoyable, visually appealing, and acces
 - ⚙ *Physics-based controls and collisions*  
 - 💥 *Power-ups, pickups, and item mechanics*  
 - 🧭 *Lap and position tracking* for competitive play  
-- 🔊 *Immersive sound effects* and background music  
+- 🔊 *Immersive sound effects* and background music
+- <img width="1920" height="1024" alt="Capture11" src="https://github.com/user-attachments/assets/58e78d14-44e7-44a7-ba63-10fc6f34759f" />
+
 
 ---
 
