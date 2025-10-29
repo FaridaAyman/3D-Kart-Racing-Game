@@ -44,6 +44,8 @@ The goal of the project is to create an enjoyable, visually appealing, and acces
 | *Assets/Scenes* | Demo and main race track scenes |
 | *Assets/Art* | 3D models, textures, and materials |
 | *Assets/Audio* | Background music and sound effects |
+<img width="1920" height="1034" alt="Capture" src="https://github.com/user-attachments/assets/86f66576-d174-4637-ae51-daae52970f5a" />
+
 
 ---
 
