@@ -4,6 +4,8 @@
 *3D Kart Racing Game* is a Unity-based racing project inspired by classic titles like *Mario Kart*.  
 Built with *Unity3D*, it features multiple characters, vibrant race tracks, and exciting power-ups that make each race fun and competitive.  
 The goal of the project is to create an enjoyable, visually appealing, and accessible kart racing experience for players of all ages. 🏁
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/efeb02ce-ab78-4d81-a14d-308863686bc2" />
+
 
 ---
 
